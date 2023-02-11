@@ -1,10 +1,11 @@
 
-# Hackerrank Questions Library
+# HackerRank Questions Library
 
 ## Details
-In this repository I am including the solutions of Hackerrank questions, which are divided into three levels or categories. i.e easy, medium and hard. You can also solve C++ hackerrank questions and can add here. However, make sure try to solve only those questions which are not in this repository contents.
+In this repository I am including the solutions of HackerRank questions, which are divided into three levels or categories. i.e easy, medium and hard. You can also solve C++ hackerrank questions and can add here. However, make sure try to solve only those questions which are not in this repository contents.
 
- 
+ ## Website
+ [HackerRank](https://www.hackerrank.com/)
 
 ## Running  Code
 
@@ -28,4 +29,4 @@ Follow the steps:
 ## License
 [Mit License](LICENSE)
 ## Contact
-I would be pleased to answer any questions you may have. So, please reach me at **shahidabbassi002[at][gmail][dot][com]**
+I would be pleased to answer any questions you may have. Please reach me at **shahidabbassi002[at][gmail][dot][com]**
