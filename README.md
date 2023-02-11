@@ -28,4 +28,4 @@ Follow the steps:
 ## License
 [Mit License](LICENSE)
 ## Contact
-I would be pleased to answer any questions you may have. So, please reach me at **shahidabbassi002[at][gmail][dot][com]**
+I would be pleased to answer any questions you may have. Please reach me at **shahidabbassi002[at][gmail][dot][com]**
