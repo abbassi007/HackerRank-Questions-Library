@@ -4,9 +4,9 @@
 
 void C_CmdArgs::Print_help() {
 	printf("Supported command lines:\n\n");
-	printf("For Question:    -l easy -q datatypes or -q datatypes -l easy\n");
-	printf("For Contents:    -c contents/CONTENTS\n");
-	printf("For Help:        -h help/HELP\n");
+	printf("[ For Question:    -l easy -q datatypes or -q datatypes -l easy ]\n");
+	printf("[ For Contents:    -c contents/CONTENTS ]\n");
+	printf("[ For Help:        -h help/HELP ]\n");
 }
 
 void C_CmdArgs::Print_Usage() {
