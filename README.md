@@ -21,7 +21,7 @@ Follow the steps:
 ```bash
   -h help
 ```
-- Command for the easy question example
+- Command for the easy-level question example
 
 ```bash
   -l easy -q helloworld
